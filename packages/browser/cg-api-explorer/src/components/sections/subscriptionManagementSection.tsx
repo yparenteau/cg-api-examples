@@ -154,7 +154,7 @@ namespace SubscriptionManagementSection {
                                         </Col>
                                     </Form.Group>
 
-                                    <MakeRequest.Component title="Update client conflation" />
+                                    <MakeRequest.Component title="Update session conflation" />
                                 </Form>
                             </ListGroup.Item>
                         </ListGroup>
