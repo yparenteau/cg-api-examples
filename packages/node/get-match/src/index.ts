@@ -2,7 +2,7 @@
  * Simple node getMatch sample.
  */
 
-import { connect, FieldId, Streaming } from "@activfinancial/cg-api";
+import { connect, FieldId, Streaming, StatusCode } from "@activfinancial/cg-api";
 import commander from "commander";
 import { sprintf } from "sprintf-js";
 
@@ -52,7 +52,9 @@ const commandLineParser = commander
         for await (const record of requestHandle) {
             ++numberOfRecords;
 
-            if (commandLineParser.display) {
+            if (StatusCode.success !== record.statusCode) {
+                console.log(`Error: ${StatusCode[record.statusCode]}`);
+            } else if (commandLineParser.display) {
                 console.log(`\n${record.responseKey.symbol} fields:`);
 
                 for (const field of record.fieldData) {
