@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Record Viewer</title>
+    <style>
+        html,
+        body {
+            height: 100%;
+        }
+
+        body {
+            margin: 0;
+            display: flex;
+        }
+
+        record-viewer {
+			flex: 1 0;
+            overflow-y: scroll;
+			user-select: none;
+
+			--activ-record-viewer-field-name-color: goldenrod;
+			--activ-record-viewer-field-value-color: cornflowerblue;
+        }
+    </style>
+</head>
+
+<body>
+    <record-viewer></record-viewer>
+</body>
+
+</html>

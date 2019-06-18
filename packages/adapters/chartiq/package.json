@@ -1,0 +1,32 @@
+{
+    "name": "@activfinancial/chartiq-adapter",
+    "description": "Implementations of chartiq feed interfaces using cg-api.",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/activfinancial/cg-api"
+    },
+    "version": "0.0.11",
+    "private": false,
+    "publishConfig": {
+        "access": "public"
+    },
+    "license": "CC-BY-ND-4.0",
+    "scripts": {
+        "clean": "rimraf lib/*",
+        "build": "tsc",
+        "develop": "tsc",
+        "test": "echo \"No test specified.\"",
+        "prepublishOnly": "yarn build"
+    },
+    "files": [
+        "lib/**"
+    ],
+    "dependencies": {
+        "@activfinancial/cg-api": "^0.9.3"
+    },
+    "devDependencies": {
+        "rimraf": "^2.6.3",
+        "terser-webpack-plugin": "^1.3.0",
+        "typescript": "^3.5.2"
+    }
+}

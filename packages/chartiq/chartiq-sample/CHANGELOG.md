@@ -1,0 +1,166 @@
+# Change Log
+
+All notable changes to this project will be documented in this file.
+See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
+## [0.4.19](https://github.com/activfinancial/cg-api/compare/@activfinancial/chartiq-sample@0.4.18...@activfinancial/chartiq-sample@0.4.19) (2019-06-18)
+
+**Note:** Version bump only for package @activfinancial/chartiq-sample
+
+
+
+
+
+## [0.4.18](https://github.com/activfinancial/cg-api/compare/@activfinancial/chartiq-sample@0.4.17...@activfinancial/chartiq-sample@0.4.18) (2019-06-18)
+
+**Note:** Version bump only for package @activfinancial/chartiq-sample
+
+
+
+
+
+## [0.4.17](https://github.com/activfinancial/cg-api/compare/@activfinancial/chartiq-sample@0.4.16...@activfinancial/chartiq-sample@0.4.17) (2019-06-18)
+
+**Note:** Version bump only for package @activfinancial/chartiq-sample
+
+
+
+
+
+## [0.4.16](https://github.com/activfinancial/cg-api/compare/@activfinancial/chartiq-sample@0.4.15...@activfinancial/chartiq-sample@0.4.16) (2019-06-14)
+
+**Note:** Version bump only for package @activfinancial/chartiq-sample
+
+
+
+
+
+## [0.4.15](https://github.com/activfinancial/cg-api/compare/@activfinancial/chartiq-sample@0.4.14...@activfinancial/chartiq-sample@0.4.15) (2019-06-14)
+
+**Note:** Version bump only for package @activfinancial/chartiq-sample
+
+
+
+
+
+## [0.4.14](https://github.com/activfinancial/cg-api/compare/@activfinancial/chartiq-sample@0.4.13...@activfinancial/chartiq-sample@0.4.14) (2019-05-09)
+
+**Note:** Version bump only for package @activfinancial/chartiq-sample
+
+
+
+
+
+## [0.4.13](https://github.com/activfinancial/cg-api/compare/@activfinancial/chartiq-sample@0.4.12...@activfinancial/chartiq-sample@0.4.13) (2019-05-07)
+
+**Note:** Version bump only for package @activfinancial/chartiq-sample
+
+
+
+
+
+## [0.4.12](https://github.com/activfinancial/cg-api/compare/@activfinancial/chartiq-sample@0.4.10...@activfinancial/chartiq-sample@0.4.12) (2019-04-11)
+
+**Note:** Version bump only for package @activfinancial/chartiq-sample
+
+
+
+
+
+## [0.4.11](https://github.com/activfinancial/cg-api/compare/@activfinancial/chartiq-sample@0.4.10...@activfinancial/chartiq-sample@0.4.11) (2019-04-11)
+
+**Note:** Version bump only for package @activfinancial/chartiq-sample
+
+
+
+
+
+## [0.4.10](https://github.com/activfinancial/cg-api/compare/@activfinancial/chartiq-sample@0.4.9...@activfinancial/chartiq-sample@0.4.10) (2019-02-13)
+
+**Note:** Version bump only for package @activfinancial/chartiq-sample
+
+
+
+
+
+## [0.4.9](https://github.com/activfinancial/cg-api/compare/@activfinancial/chartiq-sample@0.4.8...@activfinancial/chartiq-sample@0.4.9) (2019-01-23)
+
+**Note:** Version bump only for package @activfinancial/chartiq-sample
+
+
+
+
+
+## [0.4.8](https://github.com/activfinancial/cg-api/compare/@activfinancial/chartiq-sample@0.4.7...@activfinancial/chartiq-sample@0.4.8) (2019-01-10)
+
+**Note:** Version bump only for package @activfinancial/chartiq-sample
+
+
+
+
+
+## [0.4.7](https://github.com/activfinancial/cg-api/compare/@activfinancial/chartiq-sample@0.4.6...@activfinancial/chartiq-sample@0.4.7) (2019-01-03)
+
+
+### Bug Fixes
+
+* **chartiq-sample:** sorted webpack-dev-server config. ([4f0aeec](https://github.com/activfinancial/cg-api/commit/4f0aeec))
+
+
+
+
+
+## [0.4.6](https://github.com/activfinancial/cg-api/compare/@activfinancial/chartiq-sample@0.4.5...@activfinancial/chartiq-sample@0.4.6) (2018-12-06)
+
+**Note:** Version bump only for package @activfinancial/chartiq-sample
+
+
+
+
+
+## [0.4.5](https://github.com/activfinancial/cg-api/compare/@activfinancial/chartiq-sample@0.4.4...@activfinancial/chartiq-sample@0.4.5) (2018-11-28)
+
+**Note:** Version bump only for package @activfinancial/chartiq-sample
+
+
+
+
+
+## [0.4.4](https://github.com/activfinancial/cg-api/compare/@activfinancial/chartiq-sample@0.4.3...@activfinancial/chartiq-sample@0.4.4) (2018-11-27)
+
+**Note:** Version bump only for package @activfinancial/chartiq-sample
+
+
+
+
+
+## [0.4.3](https://github.com/activfinancial/cg-api/compare/@activfinancial/chartiq-sample@0.4.2...@activfinancial/chartiq-sample@0.4.3) (2018-11-27)
+
+**Note:** Version bump only for package @activfinancial/chartiq-sample
+
+
+
+
+
+## [0.4.2](https://github.com/activfinancial/cg-api/compare/@activfinancial/chartiq-sample@0.4.1...@activfinancial/chartiq-sample@0.4.2) (2018-11-23)
+
+**Note:** Version bump only for package @activfinancial/chartiq-sample
+
+
+
+
+
+## [0.4.1](https://github.com/activfinancial/cg-api/compare/@activfinancial/chartiq-sample@0.4.0...@activfinancial/chartiq-sample@0.4.1) (2018-11-15)
+
+**Note:** Version bump only for package @activfinancial/chartiq-sample
+
+
+
+
+
+# 0.4.0 (2018-11-15)
+
+
+### Features
+
+* **chartiq-sample:** initial commit. ([ba03d6d](https://github.com/activfinancial/cg-api/commit/ba03d6d))

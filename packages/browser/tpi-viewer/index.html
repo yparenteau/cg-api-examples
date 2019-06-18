@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<title>TPI Viewer</title>
+	<style>
+		html,
+		body {
+			height: 100%;
+		}
+
+		body {
+			margin: 0;
+			display: flex;
+		}
+
+		tpi-viewer {
+			overflow-y: scroll;
+			flex: 1 0;
+		}
+	</style>
+</head>
+
+<body>
+	<tpi-viewer symbol="AMPAGAMKR5%TPI"></tpi-viewer>
+	<script src="@activfinancial/cg-api/lib/index.js"></script>
+	<script src="./lib/index.js"></script>
+	<script>
+		(() => {
+			const clientPromise = activ.connect({
+				// userId: "USERNAME",
+				// password: "PASSWORD",
+				// url: "ams://cg-ny4-web.activfinancial.com/ContentGateway:Service"
+				url: "ams://cg2-ld4-t1.activfinancial.net:9002/ContentGateway:Service"
+			});
+
+			const tpiViewers = document.querySelectorAll("tpi-viewer");
+			for (const tpiViewer of tpiViewers) {
+				tpiViewer.connect(clientPromise);
+			}
+		})();
+	</script>
+</body>
+
+</html>

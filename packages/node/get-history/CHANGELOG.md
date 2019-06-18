@@ -1,0 +1,180 @@
+# Change Log
+
+All notable changes to this project will be documented in this file.
+See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
+## [0.2.23](https://github.com/activfinancial/cg-api/compare/@activfinancial/get-history@0.2.22...@activfinancial/get-history@0.2.23) (2019-06-18)
+
+**Note:** Version bump only for package @activfinancial/get-history
+
+
+
+
+
+## [0.2.22](https://github.com/activfinancial/cg-api/compare/@activfinancial/get-history@0.2.21...@activfinancial/get-history@0.2.22) (2019-06-18)
+
+**Note:** Version bump only for package @activfinancial/get-history
+
+
+
+
+
+## [0.2.21](https://github.com/activfinancial/cg-api/compare/@activfinancial/get-history@0.2.20...@activfinancial/get-history@0.2.21) (2019-06-18)
+
+**Note:** Version bump only for package @activfinancial/get-history
+
+
+
+
+
+## [0.2.20](https://github.com/activfinancial/cg-api/compare/@activfinancial/get-history@0.2.19...@activfinancial/get-history@0.2.20) (2019-06-14)
+
+**Note:** Version bump only for package @activfinancial/get-history
+
+
+
+
+
+## [0.2.19](https://github.com/activfinancial/cg-api/compare/@activfinancial/get-history@0.2.18...@activfinancial/get-history@0.2.19) (2019-06-14)
+
+**Note:** Version bump only for package @activfinancial/get-history
+
+
+
+
+
+## [0.2.18](https://github.com/activfinancial/cg-api/compare/@activfinancial/get-history@0.2.17...@activfinancial/get-history@0.2.18) (2019-05-09)
+
+**Note:** Version bump only for package @activfinancial/get-history
+
+
+
+
+
+## [0.2.17](https://github.com/activfinancial/cg-api/compare/@activfinancial/get-history@0.2.16...@activfinancial/get-history@0.2.17) (2019-05-07)
+
+**Note:** Version bump only for package @activfinancial/get-history
+
+
+
+
+
+## [0.2.16](https://github.com/activfinancial/cg-api/compare/@activfinancial/get-history@0.2.14...@activfinancial/get-history@0.2.16) (2019-04-11)
+
+**Note:** Version bump only for package @activfinancial/get-history
+
+
+
+
+
+## [0.2.15](https://github.com/activfinancial/cg-api/compare/@activfinancial/get-history@0.2.14...@activfinancial/get-history@0.2.15) (2019-04-11)
+
+**Note:** Version bump only for package @activfinancial/get-history
+
+
+
+
+
+## [0.2.14](https://github.com/activfinancial/cg-api/compare/@activfinancial/get-history@0.2.13...@activfinancial/get-history@0.2.14) (2019-02-13)
+
+**Note:** Version bump only for package @activfinancial/get-history
+
+
+
+
+
+## [0.2.13](https://github.com/activfinancial/cg-api/compare/@activfinancial/get-history@0.2.12...@activfinancial/get-history@0.2.13) (2019-01-23)
+
+**Note:** Version bump only for package @activfinancial/get-history
+
+
+
+
+
+## [0.2.12](https://github.com/activfinancial/cg-api/compare/@activfinancial/get-history@0.2.11...@activfinancial/get-history@0.2.12) (2019-01-10)
+
+**Note:** Version bump only for package @activfinancial/get-history
+
+
+
+
+
+## [0.2.11](https://github.com/activfinancial/cg-api/compare/@activfinancial/get-history@0.2.10...@activfinancial/get-history@0.2.11) (2019-01-03)
+
+**Note:** Version bump only for package @activfinancial/get-history
+
+
+
+
+
+## [0.2.10](https://github.com/activfinancial/cg-api/compare/@activfinancial/get-history@0.2.9...@activfinancial/get-history@0.2.10) (2018-12-06)
+
+**Note:** Version bump only for package @activfinancial/get-history
+
+
+
+
+
+## [0.2.9](https://github.com/activfinancial/cg-api/compare/@activfinancial/get-history@0.2.8...@activfinancial/get-history@0.2.9) (2018-11-28)
+
+**Note:** Version bump only for package @activfinancial/get-history
+
+
+
+
+
+## [0.2.8](https://github.com/activfinancial/cg-api/compare/@activfinancial/get-history@0.2.7...@activfinancial/get-history@0.2.8) (2018-11-27)
+
+**Note:** Version bump only for package @activfinancial/get-history
+
+
+
+
+
+## [0.2.7](https://github.com/activfinancial/cg-api/compare/@activfinancial/get-history@0.2.6...@activfinancial/get-history@0.2.7) (2018-11-27)
+
+**Note:** Version bump only for package @activfinancial/get-history
+
+
+
+
+
+## [0.2.6](https://github.com/activfinancial/cg-api/compare/@activfinancial/get-history@0.2.5...@activfinancial/get-history@0.2.6) (2018-11-23)
+
+**Note:** Version bump only for package @activfinancial/get-history
+
+
+
+
+
+## [0.2.5](https://github.com/activfinancial/cg-api/compare/@activfinancial/get-history@0.2.4...@activfinancial/get-history@0.2.5) (2018-11-15)
+
+**Note:** Version bump only for package @activfinancial/get-history
+
+
+
+
+
+## [0.2.4](https://github.com/activfinancial/cg-api/compare/@activfinancial/get-history@0.2.3...@activfinancial/get-history@0.2.4) (2018-11-15)
+
+**Note:** Version bump only for package @activfinancial/get-history
+
+
+
+
+
+## 0.2.3 (2018-11-07)
+
+
+
+## 0.2.2 (2018-11-02)
+
+
+
+## 0.2.1 (2018-11-01)
+
+
+
+# 0.2.0 (2018-11-01)
+
+**Note:** Version bump only for package @activfinancial/get-history

@@ -1,0 +1,85 @@
+/* Note this top-level class is added to the element in the Chart component constructor. */
+.time-series-chart {
+    /* Note CSS properties aren't in a :host section so the "shadow-" naming doesn't leak "up" to the light DOM. */
+
+    /** --activ-time-series-chart-grid-color: color of grid lines in the chart. */
+    --shadow-grid-color: var(--activ-time-series-chart-grid-color, grey);
+
+    box-sizing: border-box;
+    font-size: 12px;
+    position: relative;
+    min-height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.time-series-chart * {
+    box-sizing: border-box;
+}
+
+.time-series-chart-header {
+    position: sticky;
+    top: 0;
+    background: var(--shadow-header-background);
+    padding: 0.5rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.time-series-chart-wrapper {
+    flex: 1 0;
+}
+
+.time-series-chart-body {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: left;
+}
+
+.time-series-chart-title {
+    display: flex;
+    flex-direction: column;
+}
+
+.time-series-chart-title-symbol,
+.time-series-chart-title-name {
+    margin: 0 1rem 0 0;
+}
+
+.time-series-chart-overlay {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--shadow-background-color);
+    z-index: 100;
+}
+
+.time-series-chart-status {
+    width: auto;
+    flex: none;
+}
+
+.c3 .c3-axis path,
+.c3 .c3-axis line {
+    stroke: var(--shadow-foreground-color);
+}
+
+.c3 .c3-axis text,
+.c3 .c3-legend-item text {
+    fill: var(--shadow-foreground-color);
+}
+
+.c3 .c3-grid line {
+    stroke: var(--shadow-grid-color);
+}
+
+.c3 .c3-tooltip {
+    color: black;
+}

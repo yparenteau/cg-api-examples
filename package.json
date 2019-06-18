@@ -1,0 +1,53 @@
+{
+    "name": "@activfinancial/cg-api-examples",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/activfinancial/cg-api-examples"
+    },
+    "version": "0.0.0",
+    "private": true,
+    "workspaces": {
+        "packages": [
+            "packages/**"
+        ]
+    },
+    "license": "CC-BY-ND-4.0",
+    "author": {
+        "name": "ACTIV Financial Systems, Inc.",
+        "email": "support@activfinancial.com",
+        "url": "http://www.activfinancial.com"
+    },
+    "scripts": {
+        "lerna": "lerna",
+        "build": "lerna --concurrency 4 run build --",
+        "develop": "lerna run develop --",
+        "clean": "lerna run clean && lerna clean",
+        "publish": "lerna publish",
+        "test": "lerna run test --",
+        "upgrade-all": "lerna --concurrency 1 exec yarn-upgrade-all",
+        "yarn:publish-links": "lerna exec yarn link --",
+        "yarn:unpublish-links": "lerna exec yarn unlink --",
+        "yarn:use-links": "yarn link @activfinancial/cg-api",
+        "yarn:disuse-links": "yarn link @activfinancial/cg-api"
+    },
+    "devDependencies": {
+        "@commitlint/cli": "^8.0.0",
+        "@commitlint/config-conventional": "^8.0.0",
+        "husky": "^2.4.1",
+        "lerna": "^3.15.0",
+        "lint-staged": "^8.2.1",
+        "prettier": "^1.18.2"
+    },
+    "lint-staged": {
+        "*": [
+            "prettier --write",
+            "git add"
+        ]
+    },
+    "husky": {
+        "hooks": {
+            "commit-msg": "commitlint -E HUSKY_GIT_PARAMS",
+            "pre-commit": "lint-staged"
+        }
+    }
+}

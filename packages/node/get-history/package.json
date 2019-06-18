@@ -1,0 +1,46 @@
+{
+    "name": "@activfinancial/get-history",
+    "description": "A simple node example of some TimeSeries requests using the cg-api.",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/activfinancial/cg-api"
+    },
+    "version": "0.2.23",
+    "private": false,
+    "publishConfig": {
+        "access": "public"
+    },
+    "license": "CC-BY-4.0",
+    "author": {
+        "name": "ACTIV Financial Systems, Inc.",
+        "email": "support@activfinancial.com",
+        "url": "http://www.activfinancial.com"
+    },
+    "main": "lib/get-history.js",
+    "files": [
+        "lib/**"
+    ],
+    "scripts": {
+        "clean": "rimraf lib/*",
+        "build": "webpack --mode production",
+        "develop": "webpack --mode development",
+        "test": "echo \"No test specified\"",
+        "watch": "webpack --mode development --watch -d",
+        "prepublishOnly": "yarn build"
+    },
+    "dependencies": {
+        "@activfinancial/cg-api": "^0.9.3",
+        "commander": "^2.20.0",
+        "sprintf-js": "^1.1.2"
+    },
+    "devDependencies": {
+        "@types/sprintf-js": "^1.1.2",
+        "rimraf": "^2.6.3",
+        "terser-webpack-plugin": "^1.3.0",
+        "ts-loader": "^6.0.3",
+        "typescript": "^3.5.2",
+        "webpack": "^4.34.0",
+        "webpack-cli": "^3.3.4",
+        "webpack-permissions-plugin": "^1.0.3"
+    }
+}

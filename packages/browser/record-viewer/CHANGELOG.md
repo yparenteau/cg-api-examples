@@ -1,0 +1,214 @@
+# Change Log
+
+All notable changes to this project will be documented in this file.
+See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
+## [0.5.14](https://github.com/activfinancial/cg-api/compare/@activfinancial/record-viewer@0.5.13...@activfinancial/record-viewer@0.5.14) (2019-06-18)
+
+**Note:** Version bump only for package @activfinancial/record-viewer
+
+
+
+
+
+## [0.5.13](https://github.com/activfinancial/cg-api/compare/@activfinancial/record-viewer@0.5.12...@activfinancial/record-viewer@0.5.13) (2019-06-18)
+
+**Note:** Version bump only for package @activfinancial/record-viewer
+
+
+
+
+
+## [0.5.12](https://github.com/activfinancial/cg-api/compare/@activfinancial/record-viewer@0.5.11...@activfinancial/record-viewer@0.5.12) (2019-06-18)
+
+**Note:** Version bump only for package @activfinancial/record-viewer
+
+
+
+
+
+## [0.5.11](https://github.com/activfinancial/cg-api/compare/@activfinancial/record-viewer@0.5.10...@activfinancial/record-viewer@0.5.11) (2019-06-14)
+
+**Note:** Version bump only for package @activfinancial/record-viewer
+
+
+
+
+
+## [0.5.10](https://github.com/activfinancial/cg-api/compare/@activfinancial/record-viewer@0.5.9...@activfinancial/record-viewer@0.5.10) (2019-06-14)
+
+**Note:** Version bump only for package @activfinancial/record-viewer
+
+
+
+
+
+## [0.5.9](https://github.com/activfinancial/cg-api/compare/@activfinancial/record-viewer@0.5.8...@activfinancial/record-viewer@0.5.9) (2019-05-09)
+
+**Note:** Version bump only for package @activfinancial/record-viewer
+
+
+
+
+
+## [0.5.8](https://github.com/activfinancial/cg-api/compare/@activfinancial/record-viewer@0.5.7...@activfinancial/record-viewer@0.5.8) (2019-05-07)
+
+**Note:** Version bump only for package @activfinancial/record-viewer
+
+
+
+
+
+## [0.5.7](https://github.com/activfinancial/cg-api/compare/@activfinancial/record-viewer@0.5.5...@activfinancial/record-viewer@0.5.7) (2019-04-11)
+
+**Note:** Version bump only for package @activfinancial/record-viewer
+
+
+
+
+
+## [0.5.6](https://github.com/activfinancial/cg-api/compare/@activfinancial/record-viewer@0.5.5...@activfinancial/record-viewer@0.5.6) (2019-04-11)
+
+**Note:** Version bump only for package @activfinancial/record-viewer
+
+
+
+
+
+## [0.5.5](https://github.com/activfinancial/cg-api/compare/@activfinancial/record-viewer@0.5.4...@activfinancial/record-viewer@0.5.5) (2019-02-13)
+
+**Note:** Version bump only for package @activfinancial/record-viewer
+
+
+
+
+
+## [0.5.4](https://github.com/activfinancial/cg-api/compare/@activfinancial/record-viewer@0.5.3...@activfinancial/record-viewer@0.5.4) (2019-01-23)
+
+**Note:** Version bump only for package @activfinancial/record-viewer
+
+
+
+
+
+## [0.5.3](https://github.com/activfinancial/cg-api/compare/@activfinancial/record-viewer@0.5.2...@activfinancial/record-viewer@0.5.3) (2019-01-10)
+
+**Note:** Version bump only for package @activfinancial/record-viewer
+
+
+
+
+
+## [0.5.2](https://github.com/activfinancial/cg-api/compare/@activfinancial/record-viewer@0.5.1...@activfinancial/record-viewer@0.5.2) (2019-01-03)
+
+**Note:** Version bump only for package @activfinancial/record-viewer
+
+
+
+
+
+## [0.5.1](https://github.com/activfinancial/cg-api/compare/@activfinancial/record-viewer@0.5.0...@activfinancial/record-viewer@0.5.1) (2018-12-06)
+
+
+### Bug Fixes
+
+* **record-viewer:** show resolved symbol in header. ([e382641](https://github.com/activfinancial/cg-api/commit/e382641))
+
+
+
+
+
+# [0.5.0](https://github.com/activfinancial/cg-api/compare/@activfinancial/record-viewer@0.4.3...@activfinancial/record-viewer@0.5.0) (2018-12-06)
+
+
+### Bug Fixes
+
+* sorted check for empty symbol/query in all samples. ([5d1ec29](https://github.com/activfinancial/cg-api/commit/5d1ec29))
+
+
+### Features
+
+* **record-viewer:** use getMatch rather than getEqual. ([b8e6967](https://github.com/activfinancial/cg-api/commit/b8e6967))
+
+
+
+
+
+## [0.4.3](https://github.com/activfinancial/cg-api/compare/@activfinancial/record-viewer@0.4.2...@activfinancial/record-viewer@0.4.3) (2018-11-28)
+
+**Note:** Version bump only for package @activfinancial/record-viewer
+
+
+
+
+
+## [0.4.2](https://github.com/activfinancial/cg-api/compare/@activfinancial/record-viewer@0.4.1...@activfinancial/record-viewer@0.4.2) (2018-11-27)
+
+**Note:** Version bump only for package @activfinancial/record-viewer
+
+
+
+
+
+## [0.4.1](https://github.com/activfinancial/cg-api/compare/@activfinancial/record-viewer@0.4.0...@activfinancial/record-viewer@0.4.1) (2018-11-27)
+
+**Note:** Version bump only for package @activfinancial/record-viewer
+
+
+
+
+
+# [0.4.0](https://github.com/activfinancial/cg-api/compare/@activfinancial/record-viewer@0.3.2...@activfinancial/record-viewer@0.4.0) (2018-11-23)
+
+
+### Features
+
+* **record-viewer:** added FID_ code identifier and numeric value in tooltips. ([c64f5a0](https://github.com/activfinancial/cg-api/commit/c64f5a0))
+
+
+
+
+
+## [0.3.2](https://github.com/activfinancial/cg-api/compare/@activfinancial/record-viewer@0.3.1...@activfinancial/record-viewer@0.3.2) (2018-11-15)
+
+**Note:** Version bump only for package @activfinancial/record-viewer
+
+
+
+
+
+## [0.3.1](https://github.com/activfinancial/cg-api/compare/@activfinancial/record-viewer@0.3.0...@activfinancial/record-viewer@0.3.1) (2018-11-15)
+
+**Note:** Version bump only for package @activfinancial/record-viewer
+
+
+
+
+
+# 0.3.0 (2018-11-07)
+
+
+
+## 0.2.2 (2018-11-02)
+
+
+
+## 0.2.1 (2018-11-01)
+
+
+
+# 0.2.0 (2018-11-01)
+
+
+### Bug Fixes
+
+* clear down trending when fields are undefined. ([85fa9c0](https://github.com/activfinancial/cg-api/commit/85fa9c0))
+* z-index of 100 for overlay divs to ensure it covers the entire element in all example WebComponents. ([3cb0a36](https://github.com/activfinancial/cg-api/commit/3cb0a36))
+
+
+### Features
+
+* added styling hooks for sample WebComponents. Factored out common css across the examples. ([e0cd0c6](https://github.com/activfinancial/cg-api/commit/e0cd0c6))
+* implemented disconnectedCallback() and unload for sample custom elements, to unsubscribe from requests. We're stuck on skatejs 5.0 and that doesn't have the withLifecycle() mixin. ([1103509](https://github.com/activfinancial/cg-api/commit/1103509))
+* **record-viewer:** added field description as tooltip on field name. ([919bdc3](https://github.com/activfinancial/cg-api/commit/919bdc3))
+* **record-viewer:** show exchange name. ([47808bc](https://github.com/activfinancial/cg-api/commit/47808bc))

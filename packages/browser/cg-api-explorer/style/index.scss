@@ -1,0 +1,132 @@
+$font-size-base: 0.75rem;
+$h1-font-size: floor(($font-size-base * 2));
+$h2-font-size: floor(($font-size-base * 1.5));
+$h3-font-size: ceil(($font-size-base * 1.25));
+$h4-font-size: ceil(($font-size-base * 1.17));
+
+@import "~bootstrap/scss/bootstrap";
+
+.card-body {
+    padding: 0.75rem;
+}
+
+.form-label {
+    font-weight: bolder;
+}
+
+.list-group-item {
+    padding: 0.5rem 0.75rem;
+}
+
+.nav-tabs {
+    border-bottom: 0px;
+}
+
+.nav-tabs .nav-link {
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 11px;
+    padding-right: 11px;
+    color: grey;
+}
+
+.nav-tabs .nav-link.active {
+    background-color: $light;
+}
+
+// Buggy tooltips. https://github.com/react-bootstrap/react-bootstrap/issues/3393
+// This stops the flickering at least, even if positioning is sometimes wrong.
+.tooltip {
+    pointer-events: none !important;
+}
+
+// For long FID_xxx identifiers; avoid wrapping.
+.tooltip-inner {
+    max-width: 400px;
+}
+
+// ---------------------------------------------------------------------------------------------------------------------------------
+
+// Our classes follow.
+
+/* TODO don't like this. Must be a better way. Default spacer classes? */
+.form-group-margin {
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+
+.textarea-autosize {
+    overflow-y: auto;
+}
+
+.connection-status {
+    font-size: 1rem;
+}
+
+.section-heading {
+    cursor: pointer;
+    font-weight: bold;
+    margin-top: 0.5rem;
+    margin-bottom: 0.2rem;
+}
+.section-heading.unavailable {
+    color: #cccccc;
+}
+.section-heading::before {
+    display: inline-block;
+    font-family: "Font Awesome 5 Free";
+    content: "\f105";
+    margin-right: 0.5rem;
+    transition: transform 0.5s;
+}
+.section-heading[aria-expanded="true"]::before {
+    /* content: "\f107"; */
+    transform: rotateZ(90deg);
+}
+
+.input-container hr {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: 0;
+    border-top: 2px solid #ccc;
+}
+
+// Tidy up alerts in the input side.
+.input-container-alert {
+    padding-bottom: 1px;
+}
+.input-container-alert > .close {
+    // Get the close button to a more sensible position.
+    padding-top: 0;
+    padding-right: 0.35rem;
+}
+
+// TODO get rid of these. Utility classes and not tied to id.
+.output-controls-bar .btn-group-toggle > .btn .row {
+    @extend .m-0;
+}
+.output-controls-bar .btn-group-toggle > .btn [class*="col-"] {
+    @extend .p-0;
+}
+
+.output-display {
+    font-size: 11px;
+    line-height: 1.4;
+    color: #333333;
+    background-color: #f5f5f5;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.output-display pre {
+    word-break: normal;
+    white-space: pre-wrap;
+}
+
+.output-row:nth-of-type(even) {
+    background-color: #f9f9f9;
+}
+
+.output-timestamp {
+    color: #777777;
+}

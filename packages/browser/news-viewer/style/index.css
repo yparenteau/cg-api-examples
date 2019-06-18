@@ -1,0 +1,137 @@
+/* Note this top-level class is added to the element in the NewsViewer component constructor. */
+.news-viewer {
+    box-sizing: border-box;
+    font-size: 12px;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+
+.news-viewer * {
+    box-sizing: border-box;
+}
+
+.news-viewer-body {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.news-viewer-previous-story,
+.news-viewer-next-story {
+    width: 2em;
+    height: 2em;
+    background-position: center;
+    background-repeat: no-repeat;
+    border: none;
+    float: right;
+}
+
+.news-viewer-headline-table {
+    display: inline;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    flex: 3 1 0;
+    border-collapse: collapse;
+}
+
+.news-viewer-headline-table th {
+    text-align: left;
+    height: 1.5rem;
+    background-color: var(--shadow-table-header-background-color);
+}
+
+/* HACK injecting this at runtime due to a bug in OpenFin 9. */
+.news-viewer-headline-table-header-sticky {
+    position: sticky;
+    top: 0;
+    background-color: var(--this-table-header-background-color);
+}
+
+.news-viewer-time-column {
+    min-width: 10em;
+    width: 10em;
+}
+
+.news-viewer-headline-column {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    width: 100%;
+}
+
+.news-viewer-headline-table-row {
+    cursor: pointer;
+    height: 1.3rem;
+    background-color: var(--shadow-table-row-background-color);
+}
+
+.news-viewer-headline-table-row:nth-child(even) {
+    background-color: var(--shadow-table-row-background-alt-color);
+}
+
+.news-viewer-headline-table-row:hover {
+    background-color: var(--shadow-table-row-background-hover-color);
+}
+
+.news-viewer-article-header {
+    padding-top: 3px;
+    padding-bottom: 3px;
+    top: 0;
+    position: sticky;
+    background-color: var(--shadow-background-color);
+}
+
+.news-story-body-headline {
+    display: inline;
+}
+
+.news-viewer-article {
+    display: inline;
+    overflow-y: scroll;
+    flex: 5 1 0;
+}
+
+.news-viewer-article .news-viewer-comtex-only {
+    display: none;
+}
+
+.news-viewer-article.news-viewer-comtex-supplied .news-viewer-comtex-only {
+    display: block;
+}
+
+.news-story-body-display {
+    /* Allow text select even if disabled elsewhere. */
+    cursor: text;
+    user-select: text;
+}
+
+.news-story-body-display pre {
+    background-color: transparent;
+    border: 0 none;
+    margin: 1em 0;
+    padding: 0;
+    color: inherit;
+    border-radius: 0;
+}
+
+.news-viewer-overlay {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--shadow-background-color);
+    z-index: 100;
+}
+
+.news-viewer-status {
+    width: auto;
+    flex: none;
+}

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<title>News viewer</title>
+	<style>
+		html,
+		body {
+			height: 100%;
+			overflow-y: hidden !important;
+		}
+
+		body {
+			margin: 0;
+			display: flex;
+			flex-direction: column;
+		}
+
+		news-viewer {
+			flex: 1 0;
+			display: flex;
+		}
+	</style>
+</head>
+
+<body>
+	<news-viewer query="*"></news-viewer>
+	<!-- <news-viewer query="symbol=IBM."></news-viewer> -->
+	<script src="@activfinancial/cg-api/lib/index.js"></script>
+	<script src="./lib/index.js"></script>
+	<script>
+		(() => {
+			const clientPromise = activ.connect({
+				// userId: "USERNAME",
+				// password: "PASSWORD",
+				// url: "ams://cg-ny4-replay.activfinancial.com:9002/ContentGateway:Service"
+				url: "ams://cg-ny4-web.activfinancial.com/ContentGateway:Service"
+			});
+
+			const newsViewers = document.querySelectorAll("news-viewer");
+			for (const newsViewer of newsViewers) {
+				newsViewer.connect(clientPromise);
+			}
+		})();
+	</script>
+</body>
+
+</html>
