@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 0.3.0 (2019-06-18)
+
+
+### Features
+
+* **get-match:** show record level error code. ([e394c7b](https://github.com/activfinancial/cg-api/commit/e394c7b))
+
+
+
+
+
 ## [0.2.23](https://github.com/activfinancial/cg-api/compare/@activfinancial/get-match@0.2.22...@activfinancial/get-match@0.2.23) (2019-06-18)
 
 **Note:** Version bump only for package @activfinancial/get-match

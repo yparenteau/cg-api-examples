@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 0.5.15 (2019-06-18)
+
+**Note:** Version bump only for package @activfinancial/record-viewer
+
+
+
+
+
 ## [0.5.14](https://github.com/activfinancial/cg-api/compare/@activfinancial/record-viewer@0.5.13...@activfinancial/record-viewer@0.5.14) (2019-06-18)
 
 **Note:** Version bump only for package @activfinancial/record-viewer
