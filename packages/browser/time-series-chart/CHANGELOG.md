@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.3.22](https://github.com/activfinancial/cg-api/compare/@activfinancial/time-series-chart@0.3.21...@activfinancial/time-series-chart@0.3.22) (2019-06-19)
+
+
+### Bug Fixes
+
+* added @webcomponents/webcomponentsjs to samples so they'll run as-is in Edge. The lack of shadow-dom in Edge (pre-Chromium, anyway) means they won't by styled correctly. ([a8bedac](https://github.com/activfinancial/cg-api/commit/a8bedac))
+* **time-series-chart:** some CSS hackery to get something working in Edge. ([c20cf92](https://github.com/activfinancial/cg-api/commit/c20cf92))
+
+
+
+
+
 ## 0.3.21 (2019-06-18)
 
 **Note:** Version bump only for package @activfinancial/time-series-chart

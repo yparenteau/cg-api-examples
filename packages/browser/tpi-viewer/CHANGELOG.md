@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.1.14](https://github.com/activfinancial/cg-api/compare/@activfinancial/tpi-viewer@0.1.13...@activfinancial/tpi-viewer@0.1.14) (2019-06-19)
+
+
+### Bug Fixes
+
+* added @webcomponents/webcomponentsjs to samples so they'll run as-is in Edge. The lack of shadow-dom in Edge (pre-Chromium, anyway) means they won't by styled correctly. ([a8bedac](https://github.com/activfinancial/cg-api/commit/a8bedac))
+
+
+
+
+
 ## 0.1.13 (2019-06-18)
 
 **Note:** Version bump only for package @activfinancial/tpi-viewer

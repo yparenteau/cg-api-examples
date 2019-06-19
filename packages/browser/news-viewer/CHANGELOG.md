@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.4.8](https://github.com/activfinancial/cg-api/compare/@activfinancial/news-viewer@0.4.7...@activfinancial/news-viewer@0.4.8) (2019-06-19)
+
+
+### Bug Fixes
+
+* added @webcomponents/webcomponentsjs to samples so they'll run as-is in Edge. The lack of shadow-dom in Edge (pre-Chromium, anyway) means they won't by styled correctly. ([a8bedac](https://github.com/activfinancial/cg-api/commit/a8bedac))
+* **news-viewer:** some CSS hackery to get something working in Edge. ([11711ce](https://github.com/activfinancial/cg-api/commit/11711ce))
+
+
+
+
+
 ## 0.4.7 (2019-06-18)
 
 **Note:** Version bump only for package @activfinancial/news-viewer

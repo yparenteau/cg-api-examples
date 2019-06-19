@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.3.22](https://github.com/activfinancial/cg-api/compare/@activfinancial/montage-viewer@0.3.21...@activfinancial/montage-viewer@0.3.22) (2019-06-19)
+
+
+### Bug Fixes
+
+* added @webcomponents/webcomponentsjs to samples so they'll run as-is in Edge. The lack of shadow-dom in Edge (pre-Chromium, anyway) means they won't by styled correctly. ([a8bedac](https://github.com/activfinancial/cg-api/commit/a8bedac))
+* **montage-viewer:** some CSS hackery to get something working in Edge. ([ff07ae9](https://github.com/activfinancial/cg-api/commit/ff07ae9))
+
+
+
+
+
 ## 0.3.21 (2019-06-18)
 
 **Note:** Version bump only for package @activfinancial/montage-viewer
