@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.5.6](https://github.com/activfinancial/cg-api/compare/@activfinancial/cg-api-explorer@0.5.5...@activfinancial/cg-api-explorer@0.5.6) (2019-06-20)
+
+
+### Bug Fixes
+
+* **cg-api-explorer:** fixed request parameters output display for multiple relationships. ([cd3b784](https://github.com/activfinancial/cg-api/commit/cd3b784))
+
+
+
+
+
 ## 0.5.5 (2019-06-18)
 
 **Note:** Version bump only for package @activfinancial/cg-api-explorer

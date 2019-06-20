@@ -5,7 +5,7 @@
         "type": "git",
         "url": "https://github.com/activfinancial/cg-api"
     },
-    "version": "0.4.12",
+    "version": "0.4.13",
     "private": false,
     "publishConfig": {
         "access": "public"
@@ -34,11 +34,11 @@
     },
     "dependencies": {
         "@activfinancial/cg-api": "^0.9.4",
-        "@activfinancial/montage-viewer": "^0.3.22",
-        "@activfinancial/news-viewer": "^0.4.8",
-        "@activfinancial/option-chain": "^0.4.19",
-        "@activfinancial/record-viewer": "^0.5.16",
-        "@activfinancial/time-series-chart": "^0.3.22",
+        "@activfinancial/montage-viewer": "^0.3.23",
+        "@activfinancial/news-viewer": "^0.4.9",
+        "@activfinancial/option-chain": "^0.4.20",
+        "@activfinancial/record-viewer": "^0.5.17",
+        "@activfinancial/time-series-chart": "^0.3.23",
         "bootstrap": "^3.3.7",
         "html5-boilerplate": "^7.2.0",
         "jquery": "^3.4.1",
