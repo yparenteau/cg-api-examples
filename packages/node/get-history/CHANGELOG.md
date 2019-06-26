@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.2.30](https://github.com/activfinancial/cg-api-examples/compare/@activfinancial/get-history@0.2.29...@activfinancial/get-history@0.2.30) (2019-06-26)
+
+**Note:** Version bump only for package @activfinancial/get-history
+
+
+
+
+
 ## [0.2.29](https://github.com/activfinancial/cg-api-examples/compare/@activfinancial/get-history@0.2.28...@activfinancial/get-history@0.2.29) (2019-06-26)
 
 **Note:** Version bump only for package @activfinancial/get-history
