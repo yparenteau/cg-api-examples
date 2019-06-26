@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.6.0](https://github.com/activfinancial/cg-api-examples/compare/@activfinancial/cg-api-explorer@0.5.9...@activfinancial/cg-api-explorer@0.6.0) (2019-06-26)
+
+
+### Features
+
+* **cg-api-explorer:** added ClientInfo server link in menu dropdown when running on ACTIV network. ([ba35646](https://github.com/activfinancial/cg-api-examples/commit/ba35646))
+
+
+
+
+
 ## [0.5.9](https://github.com/activfinancial/cg-api-examples/compare/@activfinancial/cg-api-explorer@0.5.8...@activfinancial/cg-api-explorer@0.5.9) (2019-06-21)
 
 **Note:** Version bump only for package @activfinancial/cg-api-explorer
