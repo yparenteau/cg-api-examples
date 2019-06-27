@@ -5,7 +5,7 @@
         "type": "git",
         "url": "https://github.com/activfinancial/cg-api-examples"
     },
-    "version": "0.7.1",
+    "version": "0.7.2",
     "private": false,
     "publishConfig": {
         "access": "public"
@@ -93,5 +93,5 @@
             "\\.(jpg|jpeg|png|gif|eot|otf|webp|svg|ttf|woff|woff2|mp4|webm|wav|mp3|m4a|aac|oga)$": "<rootDir>/__mocks__/fileMock.js"
         }
     },
-    "gitHead": "0fd6be2d113c7c0103571c1d4a3f8e640d209470"
+    "gitHead": "33e14d5cb40763412c228a214a7df1bfe5811c3c"
 }
