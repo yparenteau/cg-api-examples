@@ -5,7 +5,7 @@
         "type": "git",
         "url": "https://github.com/activfinancial/cg-api-examples"
     },
-    "version": "0.4.18",
+    "version": "0.4.19",
     "private": false,
     "publishConfig": {
         "access": "public"
@@ -37,7 +37,7 @@
         "@activfinancial/montage-viewer": "^0.3.28",
         "@activfinancial/news-viewer": "^0.4.14",
         "@activfinancial/option-chain": "^0.4.25",
-        "@activfinancial/record-viewer": "^0.5.22",
+        "@activfinancial/record-viewer": "^0.6.0",
         "@activfinancial/time-series-chart": "^0.3.28",
         "bootstrap": "^3.3.7",
         "html5-boilerplate": "^7.2.0",

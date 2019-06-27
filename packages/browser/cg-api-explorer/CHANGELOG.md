@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.7.0](https://github.com/activfinancial/cg-api-examples/compare/@activfinancial/cg-api-explorer@0.6.1...@activfinancial/cg-api-explorer@0.7.0) (2019-06-27)
+
+
+### Bug Fixes
+
+* **cg-api-explorer:** render getSubscriptionInfo() results. ([a0af36d](https://github.com/activfinancial/cg-api-examples/commit/a0af36d))
+
+
+### Features
+
+* **cg-api-explorer:** show version in menu. ([80264ca](https://github.com/activfinancial/cg-api-examples/commit/80264ca))
+
+
+
+
+
 ## [0.6.1](https://github.com/activfinancial/cg-api-examples/compare/@activfinancial/cg-api-explorer@0.6.0...@activfinancial/cg-api-explorer@0.6.1) (2019-06-26)
 
 **Note:** Version bump only for package @activfinancial/cg-api-explorer
