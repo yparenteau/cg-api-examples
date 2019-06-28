@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.7.4](https://github.com/activfinancial/cg-api-examples/compare/@activfinancial/cg-api-explorer@0.7.3...@activfinancial/cg-api-explorer@0.7.4) (2019-06-28)
+
+
+### Bug Fixes
+
+* **cg-api-explorer:** fixed table number formatting in requestedKey output when it's not in the TableNumber enumeration. ([257d452](https://github.com/activfinancial/cg-api-examples/commit/257d452))
+* **cg-api-explorer:** set no-cache when checking scm1-cam to avoid CORS failing when switching between beta and production sites. ([1e7d0a6](https://github.com/activfinancial/cg-api-examples/commit/1e7d0a6))
+
+
+
+
+
 ## [0.7.3](https://github.com/activfinancial/cg-api-examples/compare/@activfinancial/cg-api-explorer@0.7.2...@activfinancial/cg-api-explorer@0.7.3) (2019-06-27)
 
 **Note:** Version bump only for package @activfinancial/cg-api-explorer
