@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.0.19](https://github.com/activfinancial/cg-api-examples/compare/@activfinancial/chartiq-adapter@0.0.18...@activfinancial/chartiq-adapter@0.0.19) (2019-07-02)
+
+**Note:** Version bump only for package @activfinancial/chartiq-adapter
+
+
+
+
+
 ## [0.0.18](https://github.com/activfinancial/cg-api-examples/compare/@activfinancial/chartiq-adapter@0.0.17...@activfinancial/chartiq-adapter@0.0.18) (2019-06-28)
 
 **Note:** Version bump only for package @activfinancial/chartiq-adapter

@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.8.0](https://github.com/activfinancial/cg-api-examples/compare/@activfinancial/cg-api-explorer@0.7.4...@activfinancial/cg-api-explorer@0.8.0) (2019-07-02)
+
+
+### Features
+
+* **cg-api-explorer:** use react-split-pane to separate input/output columns. ([7c080d9](https://github.com/activfinancial/cg-api-examples/commit/7c080d9))
+
+
+
+
+
 ## [0.7.4](https://github.com/activfinancial/cg-api-examples/compare/@activfinancial/cg-api-explorer@0.7.3...@activfinancial/cg-api-explorer@0.7.4) (2019-06-28)
 
 
