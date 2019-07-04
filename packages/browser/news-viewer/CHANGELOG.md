@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.5.0](https://github.com/activfinancial/cg-api-examples/compare/@activfinancial/news-viewer@0.4.16...@activfinancial/news-viewer@0.5.0) (2019-07-04)
+
+
+### Bug Fixes
+
+* **news-viewer:** properly reset scroll position in story body when changing story. ([db68726](https://github.com/activfinancial/cg-api-examples/commit/db68726))
+
+
+### Features
+
+* **news-viewer:** added FID_CHARACTER_SET support when decoding a story body. ([c0d5368](https://github.com/activfinancial/cg-api-examples/commit/c0d5368))
+
+
+
+
+
 ## [0.4.16](https://github.com/activfinancial/cg-api-examples/compare/@activfinancial/news-viewer@0.4.15...@activfinancial/news-viewer@0.4.16) (2019-07-02)
 
 **Note:** Version bump only for package @activfinancial/news-viewer
