@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.4.3](https://github.com/activfinancial/cg-api-examples/compare/@activfinancial/get-match@0.4.2...@activfinancial/get-match@0.4.3) (2019-07-12)
+
+**Note:** Version bump only for package @activfinancial/get-match
+
+
+
+
+
 ## [0.4.2](https://github.com/activfinancial/cg-api-examples/compare/@activfinancial/get-match@0.4.1...@activfinancial/get-match@0.4.2) (2019-07-04)
 
 **Note:** Version bump only for package @activfinancial/get-match
