@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.9.0](https://github.com/activfinancial/cg-api-examples/compare/@activfinancial/cg-api-explorer@0.8.2...@activfinancial/cg-api-explorer@0.9.0) (2019-07-19)
+
+
+### Bug Fixes
+
+* **cg-api-explorer:** fixed utc/exchange local datetime for time series period. ([2340459](https://github.com/activfinancial/cg-api-examples/commit/2340459))
+
+
+### Features
+
+* **cg-api-explorer:** added onFeedConflationUpdate support. ([14d7d67](https://github.com/activfinancial/cg-api-examples/commit/14d7d67))
+
+
+
+
+
 ## [0.8.2](https://github.com/activfinancial/cg-api-examples/compare/@activfinancial/cg-api-explorer@0.8.1...@activfinancial/cg-api-explorer@0.8.2) (2019-07-12)
 
 **Note:** Version bump only for package @activfinancial/cg-api-explorer
