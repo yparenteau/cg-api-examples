@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.9.1](https://github.com/activfinancial/cg-api-examples/compare/@activfinancial/cg-api-explorer@0.9.0...@activfinancial/cg-api-explorer@0.9.1) (2019-07-25)
+
+
+### Bug Fixes
+
+* **cg-api-explorer:** wrong title outputting feed conflation update. ([9a7d8ab](https://github.com/activfinancial/cg-api-examples/commit/9a7d8ab))
+
+
+
+
+
 # [0.9.0](https://github.com/activfinancial/cg-api-examples/compare/@activfinancial/cg-api-explorer@0.8.2...@activfinancial/cg-api-explorer@0.9.0) (2019-07-19)
 
 

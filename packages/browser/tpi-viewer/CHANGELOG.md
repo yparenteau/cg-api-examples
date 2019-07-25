@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.1.26](https://github.com/activfinancial/cg-api-examples/compare/@activfinancial/tpi-viewer@0.1.25...@activfinancial/tpi-viewer@0.1.26) (2019-07-25)
+
+**Note:** Version bump only for package @activfinancial/tpi-viewer
+
+
+
+
+
 ## [0.1.25](https://github.com/activfinancial/cg-api-examples/compare/@activfinancial/tpi-viewer@0.1.24...@activfinancial/tpi-viewer@0.1.25) (2019-07-19)
 
 **Note:** Version bump only for package @activfinancial/tpi-viewer
