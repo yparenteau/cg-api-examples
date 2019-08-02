@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.4.29](https://github.com/activfinancial/cg-api-examples/compare/@activfinancial/activ-workstation@0.4.28...@activfinancial/activ-workstation@0.4.29) (2019-08-02)
+
+**Note:** Version bump only for package @activfinancial/activ-workstation
+
+
+
+
+
 ## [0.4.28](https://github.com/activfinancial/cg-api-examples/compare/@activfinancial/activ-workstation@0.4.27...@activfinancial/activ-workstation@0.4.28) (2019-07-25)
 
 **Note:** Version bump only for package @activfinancial/activ-workstation

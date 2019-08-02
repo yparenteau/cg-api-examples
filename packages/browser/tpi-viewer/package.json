@@ -5,7 +5,7 @@
         "type": "git",
         "url": "https://github.com/activfinancial/cg-api-examples"
     },
-    "version": "0.1.26",
+    "version": "0.1.27",
     "private": false,
     "publishConfig": {
         "access": "public"
