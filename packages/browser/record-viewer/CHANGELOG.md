@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.6.11](https://github.com/activfinancial/cg-api-examples/compare/@activfinancial/record-viewer@0.6.10...@activfinancial/record-viewer@0.6.11) (2019-08-14)
+
+
+### Bug Fixes
+
+* **record-viewer:** fixed waiting for field metadata on startup. ([c9bef14](https://github.com/activfinancial/cg-api-examples/commit/c9bef14))
+
+
+
+
+
 ## [0.6.10](https://github.com/activfinancial/cg-api-examples/compare/@activfinancial/record-viewer@0.6.9...@activfinancial/record-viewer@0.6.10) (2019-08-02)
 
 **Note:** Version bump only for package @activfinancial/record-viewer

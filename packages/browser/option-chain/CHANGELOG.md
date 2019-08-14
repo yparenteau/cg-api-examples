@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.4.33](https://github.com/activfinancial/cg-api-examples/compare/@activfinancial/option-chain@0.4.32...@activfinancial/option-chain@0.4.33) (2019-08-14)
+
+
+### Bug Fixes
+
+* **option-chain:** correct symbol tooltips for both sides. ([e01453e](https://github.com/activfinancial/cg-api-examples/commit/e01453e))
+
+
+
+
+
 ## [0.4.32](https://github.com/activfinancial/cg-api-examples/compare/@activfinancial/option-chain@0.4.31...@activfinancial/option-chain@0.4.32) (2019-08-02)
 
 **Note:** Version bump only for package @activfinancial/option-chain
