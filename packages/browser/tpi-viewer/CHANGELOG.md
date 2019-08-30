@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.1.32](https://github.com/activfinancial/cg-api-examples/compare/@activfinancial/tpi-viewer@0.1.30...@activfinancial/tpi-viewer@0.1.32) (2019-08-30)
+
+
+### Bug Fixes
+
+* ensure super.disconnectedCallback() is invoked. ([6c00bf6](https://github.com/activfinancial/cg-api-examples/commit/6c00bf6))
+* set npmjs default registry in package.json (since we have an internal private registry now for some packages). ([89e580f](https://github.com/activfinancial/cg-api-examples/commit/89e580f))
+
+
+
+
+
 ## [0.1.31](https://github.com/activfinancial/cg-api-examples/compare/@activfinancial/tpi-viewer@0.1.30...@activfinancial/tpi-viewer@0.1.31) (2019-08-23)
 
 

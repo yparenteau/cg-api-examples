@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.0.28](https://github.com/activfinancial/cg-api-examples/compare/@activfinancial/chartiq-adapter@0.0.26...@activfinancial/chartiq-adapter@0.0.28) (2019-08-30)
+
+
+### Bug Fixes
+
+* set npmjs default registry in package.json (since we have an internal private registry now for some packages). ([89e580f](https://github.com/activfinancial/cg-api-examples/commit/89e580f))
+
+
+
+
+
 ## [0.0.27](https://github.com/activfinancial/cg-api-examples/compare/@activfinancial/chartiq-adapter@0.0.26...@activfinancial/chartiq-adapter@0.0.27) (2019-08-23)
 
 

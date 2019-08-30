@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.9.7](https://github.com/activfinancial/cg-api-examples/compare/@activfinancial/cg-api-explorer@0.9.5...@activfinancial/cg-api-explorer@0.9.7) (2019-08-30)
+
+
+### Bug Fixes
+
+* **cg-api-explorer:** disable conflation settings if not SubscriptionType.full to avoid confusion. ([dbe13de](https://github.com/activfinancial/cg-api-examples/commit/dbe13de))
+* set npmjs default registry in package.json (since we have an internal private registry now for some packages). ([89e580f](https://github.com/activfinancial/cg-api-examples/commit/89e580f))
+
+
+
+
+
 ## [0.9.6](https://github.com/activfinancial/cg-api-examples/compare/@activfinancial/cg-api-explorer@0.9.5...@activfinancial/cg-api-explorer@0.9.6) (2019-08-23)
 
 
