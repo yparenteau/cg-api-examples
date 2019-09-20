@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.5.2](https://github.com/activfinancial/cg-api-examples/compare/@activfinancial/activ-workstation@0.5.1...@activfinancial/activ-workstation@0.5.2) (2019-09-20)
+
+
+### Bug Fixes
+
+* **activ-workstation:** fixed favicon locations in app.json. ([88feca8](https://github.com/activfinancial/cg-api-examples/commit/88feca8))
+
+
+
+
+
 ## [0.5.1](https://github.com/activfinancial/cg-api-examples/compare/@activfinancial/activ-workstation@0.5.0...@activfinancial/activ-workstation@0.5.1) (2019-09-20)
 
 
