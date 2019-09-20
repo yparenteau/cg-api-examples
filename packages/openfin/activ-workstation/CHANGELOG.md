@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.5.0](https://github.com/activfinancial/cg-api-examples/compare/@activfinancial/activ-workstation@0.4.35...@activfinancial/activ-workstation@0.5.0) (2019-09-20)
+
+
+### Features
+
+* **activ-workstation:** ported to react and react-bootstrap. ([fefcc28](https://github.com/activfinancial/cg-api-examples/commit/fefcc28))
+
+
+
+
+
 ## [0.4.35](https://github.com/activfinancial/cg-api-examples/compare/@activfinancial/activ-workstation@0.4.34...@activfinancial/activ-workstation@0.4.35) (2019-09-13)
 
 **Note:** Version bump only for package @activfinancial/activ-workstation
