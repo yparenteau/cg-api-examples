@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.5.3](https://github.com/activfinancial/cg-api-examples/compare/@activfinancial/activ-workstation@0.5.2...@activfinancial/activ-workstation@0.5.3) (2019-09-20)
+
+
+### Bug Fixes
+
+* **activ-workstation:** cope with contextMenuSettings and contextMenu property name in window options. ([40eb19d](https://github.com/activfinancial/cg-api-examples/commit/40eb19d))
+
+
+
+
+
 ## [0.5.2](https://github.com/activfinancial/cg-api-examples/compare/@activfinancial/activ-workstation@0.5.1...@activfinancial/activ-workstation@0.5.2) (2019-09-20)
 
 
