@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.5.1](https://github.com/activfinancial/cg-api-examples/compare/@activfinancial/activ-workstation@0.5.0...@activfinancial/activ-workstation@0.5.1) (2019-09-20)
+
+
+### Bug Fixes
+
+* **activ-workstation:** copy app.json to output directory. ([0c9556d](https://github.com/activfinancial/cg-api-examples/commit/0c9556d))
+
+
+
+
+
 # [0.5.0](https://github.com/activfinancial/cg-api-examples/compare/@activfinancial/activ-workstation@0.4.35...@activfinancial/activ-workstation@0.5.0) (2019-09-20)
 
 
