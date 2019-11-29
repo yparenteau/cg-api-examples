@@ -5,7 +5,7 @@
         "type": "git",
         "url": "https://github.com/activfinancial/cg-api-examples"
     },
-    "version": "0.5.3",
+    "version": "0.5.4",
     "private": false,
     "publishConfig": {
         "access": "public"
@@ -34,10 +34,10 @@
     },
     "dependencies": {
         "@activfinancial/cg-api": "^0.14.1",
-        "@activfinancial/montage-viewer": "^0.3.42",
-        "@activfinancial/news-viewer": "^0.5.11",
-        "@activfinancial/option-chain": "^0.4.39",
-        "@activfinancial/record-viewer": "^0.6.17",
+        "@activfinancial/montage-viewer": "^0.3.43",
+        "@activfinancial/news-viewer": "^0.5.12",
+        "@activfinancial/option-chain": "^0.5.0",
+        "@activfinancial/record-viewer": "^0.7.0",
         "@fortawesome/fontawesome-free": "^5.11.2",
         "openfin-cli": "2.0.9",
         "react": "^16.12.0",

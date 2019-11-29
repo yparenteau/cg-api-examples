@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.5.0](https://github.com/activfinancial/cg-api-examples/compare/@activfinancial/option-chain@0.4.39...@activfinancial/option-chain@0.5.0) (2019-11-29)
+
+
+### Features
+
+* **option-chain:** set shouldMatchExact in getMatch request; it makes more sense to get what was entered if it exists. ([88eadae](https://github.com/activfinancial/cg-api-examples/commit/88eadae))
+
+
+
+
+
 ## [0.4.39](https://github.com/activfinancial/cg-api-examples/compare/@activfinancial/option-chain@0.4.38...@activfinancial/option-chain@0.4.39) (2019-09-20)
 
 **Note:** Version bump only for package @activfinancial/option-chain

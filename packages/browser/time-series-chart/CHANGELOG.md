@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.3.43](https://github.com/activfinancial/cg-api-examples/compare/@activfinancial/time-series-chart@0.3.42...@activfinancial/time-series-chart@0.3.43) (2019-11-29)
+
+
+### Bug Fixes
+
+* **time-series-chart:** clear down symbol / name fields on change of symbol and look for FID_NAME in record or company nav. ([52a4966](https://github.com/activfinancial/cg-api-examples/commit/52a4966))
+
+
+
+
+
 ## [0.3.42](https://github.com/activfinancial/cg-api-examples/compare/@activfinancial/time-series-chart@0.3.41...@activfinancial/time-series-chart@0.3.42) (2019-09-20)
 
 **Note:** Version bump only for package @activfinancial/time-series-chart
