@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.5.5](https://github.com/activfinancial/cg-api-examples/compare/@activfinancial/activ-workstation@0.5.4...@activfinancial/activ-workstation@0.5.5) (2019-12-04)
+
+
+### Bug Fixes
+
+* **activ-workstation:** switch to stable-v13 runtime. stable (= 14) not working on Fedora. ([1f38301](https://github.com/activfinancial/cg-api-examples/commit/1f3830146048bf3409d608fd892328bdb689946f))
+
+
+
+
+
 ## [0.5.4](https://github.com/activfinancial/cg-api-examples/compare/@activfinancial/activ-workstation@0.5.3...@activfinancial/activ-workstation@0.5.4) (2019-11-29)
 
 **Note:** Version bump only for package @activfinancial/activ-workstation

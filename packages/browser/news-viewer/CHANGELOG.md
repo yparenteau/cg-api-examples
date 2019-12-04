@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.5.13](https://github.com/activfinancial/cg-api-examples/compare/@activfinancial/news-viewer@0.5.12...@activfinancial/news-viewer@0.5.13) (2019-12-04)
+
+**Note:** Version bump only for package @activfinancial/news-viewer
+
+
+
+
+
 ## [0.5.12](https://github.com/activfinancial/cg-api-examples/compare/@activfinancial/news-viewer@0.5.11...@activfinancial/news-viewer@0.5.12) (2019-11-29)
 
 **Note:** Version bump only for package @activfinancial/news-viewer
