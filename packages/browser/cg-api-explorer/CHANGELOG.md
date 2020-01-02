@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.9.13](https://github.com/activfinancial/cg-api-examples/compare/@activfinancial/cg-api-explorer@0.9.12...@activfinancial/cg-api-explorer@0.9.13) (2020-01-02)
+
+**Note:** Version bump only for package @activfinancial/cg-api-explorer
+
+
+
+
+
 ## [0.9.12](https://github.com/activfinancial/cg-api-examples/compare/@activfinancial/cg-api-explorer@0.9.11...@activfinancial/cg-api-explorer@0.9.12) (2019-12-04)
 
 **Note:** Version bump only for package @activfinancial/cg-api-explorer
