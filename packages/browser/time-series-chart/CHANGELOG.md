@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.3.48](https://github.com/activfinancial/cg-api-examples/compare/@activfinancial/time-series-chart@0.3.47...@activfinancial/time-series-chart@0.3.48) (2020-01-15)
+
+**Note:** Version bump only for package @activfinancial/time-series-chart
+
+
+
+
+
 ## [0.3.47](https://github.com/activfinancial/cg-api-examples/compare/@activfinancial/time-series-chart@0.3.46...@activfinancial/time-series-chart@0.3.47) (2020-01-02)
 
 **Note:** Version bump only for package @activfinancial/time-series-chart

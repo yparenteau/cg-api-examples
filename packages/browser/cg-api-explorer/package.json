@@ -5,7 +5,7 @@
         "type": "git",
         "url": "https://github.com/activfinancial/cg-api-examples"
     },
-    "version": "0.9.13",
+    "version": "0.9.14",
     "private": false,
     "publishConfig": {
         "access": "public"
@@ -32,7 +32,7 @@
     },
     "dependencies": {
         "@activfinancial/cg-api": "^0.15.2",
-        "@activfinancial/cg-api-examples-common": "^0.1.1",
+        "@activfinancial/cg-api-examples-common": "^0.1.2",
         "@activfinancial/cg-api-fsbl": "^0.2.3",
         "@fortawesome/fontawesome-free": "^5.12.0",
         "base64-url": "^2.3.3",

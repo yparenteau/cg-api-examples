@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.4.44](https://github.com/activfinancial/cg-api-examples/compare/@activfinancial/chartiq-sample@0.4.43...@activfinancial/chartiq-sample@0.4.44) (2020-01-15)
+
+**Note:** Version bump only for package @activfinancial/chartiq-sample
+
+
+
+
+
 ## [0.4.43](https://github.com/activfinancial/cg-api-examples/compare/@activfinancial/chartiq-sample@0.4.42...@activfinancial/chartiq-sample@0.4.43) (2020-01-02)
 
 **Note:** Version bump only for package @activfinancial/chartiq-sample
