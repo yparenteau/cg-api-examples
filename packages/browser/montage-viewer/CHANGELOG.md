@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.3.48](https://github.com/activfinancial/cg-api-examples/compare/@activfinancial/montage-viewer@0.3.47...@activfinancial/montage-viewer@0.3.48) (2020-01-23)
+
+**Note:** Version bump only for package @activfinancial/montage-viewer
+
+
+
+
+
 ## [0.3.47](https://github.com/activfinancial/cg-api-examples/compare/@activfinancial/montage-viewer@0.3.46...@activfinancial/montage-viewer@0.3.47) (2020-01-15)
 
 **Note:** Version bump only for package @activfinancial/montage-viewer

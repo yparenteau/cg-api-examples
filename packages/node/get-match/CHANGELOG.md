@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.5.0](https://github.com/activfinancial/cg-api-examples/compare/@activfinancial/get-match@0.4.17...@activfinancial/get-match@0.5.0) (2020-01-23)
+
+
+### Features
+
+* **get-match:** added cmd wrapper to allow simple launching in Windows (assuming node is in the path). ([22d9c05](https://github.com/activfinancial/cg-api-examples/commit/22d9c053a6fc5dbc27f11c09f1923a3b8aef3e55))
+
+
+
+
+
 ## [0.4.17](https://github.com/activfinancial/cg-api-examples/compare/@activfinancial/get-match@0.4.16...@activfinancial/get-match@0.4.17) (2020-01-15)
 
 **Note:** Version bump only for package @activfinancial/get-match

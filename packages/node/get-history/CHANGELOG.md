@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.3.0](https://github.com/activfinancial/cg-api-examples/compare/@activfinancial/get-history@0.2.48...@activfinancial/get-history@0.3.0) (2020-01-23)
+
+
+### Features
+
+* **get-history:** added cmd wrapper to allow simple launching in Windows (assuming node is in the path). ([16ba5ab](https://github.com/activfinancial/cg-api-examples/commit/16ba5abd9bb084b22eeb3a3db8ff70c9964b7817))
+
+
+
+
+
 ## [0.2.48](https://github.com/activfinancial/cg-api-examples/compare/@activfinancial/get-history@0.2.47...@activfinancial/get-history@0.2.48) (2020-01-15)
 
 **Note:** Version bump only for package @activfinancial/get-history
