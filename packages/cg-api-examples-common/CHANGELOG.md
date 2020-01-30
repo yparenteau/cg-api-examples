@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.1.4](https://github.com/activfinancial/cg-api-examples/compare/@activfinancial/cg-api-examples-common@0.1.3...@activfinancial/cg-api-examples-common@0.1.4) (2020-01-30)
+
+**Note:** Version bump only for package @activfinancial/cg-api-examples-common
+
+
+
+
+
 ## [0.1.3](https://github.com/activfinancial/cg-api-examples/compare/@activfinancial/cg-api-examples-common@0.1.2...@activfinancial/cg-api-examples-common@0.1.3) (2020-01-23)
 
 **Note:** Version bump only for package @activfinancial/cg-api-examples-common
