@@ -5,7 +5,7 @@
         "type": "git",
         "url": "https://github.com/activfinancial/cg-api-examples"
     },
-    "version": "0.4.46",
+    "version": "0.4.47",
     "private": false,
     "publishConfig": {
         "access": "public"
@@ -32,7 +32,7 @@
     },
     "dependencies": {
         "@activfinancial/cg-api": "^0.16.1",
-        "@activfinancial/chartiq-adapter": "^0.0.37"
+        "@activfinancial/chartiq-adapter": "^0.0.38"
     },
     "devDependencies": {
         "copy-webpack-plugin": "^5.1.1",
