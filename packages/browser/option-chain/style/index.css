@@ -6,7 +6,7 @@
     --shadow-side-header-foreground-color: var(--activ-option-chain-side-header-foreground-color, var(--shadow-background-color));
 
     /** --activ-option-chain-side-header-background-color: background color for the option side header row. */
-    --shadow-side-header-background-color: var(--activ-option-chain-side-header-background-color, #003f5e);
+    --shadow-side-header-background-color: var(--activ-option-chain-side-header-background-color, #31005e);
 
     /** --activ-option-chain-strike-column-foreground-color: foreground color for the strike/exchange columns. */
     --shadow-strike-column-foreground-color: var(
@@ -21,10 +21,10 @@
     );
 
     /** --activ-option-chain-strike-column-background-alt-color: alternative (every-other) background color for the strike/exchange columns. */
-    --shadow-strike-column-background-alt-color: var(--activ-option-chain-strike-column-background-alt-color, #235974);
+    --shadow-strike-column-background-alt-color: var(--activ-option-chain-strike-column-background-alt-color, #2f2374);
 
     /** --activ-option-chain-at-the-money-color: highlight color for options above/below the money. */
-    --shadow-at-the-money-color: var(--activ-option-chain-at-the-money-color, #f57e20);
+    --shadow-at-the-money-color: var(--activ-option-chain-at-the-money-color, #8922ff);
 
     box-sizing: border-box;
     font-size: 12px;
