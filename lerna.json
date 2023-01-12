@@ -1,6 +1,6 @@
 {
     "lerna": "2.2.0",
-    "packages": ["packages/*", "packages/adapters/*", "packages/browser/*", "packages/node/*", "packages/openfin/*"],
+    "packages": ["packages/*", "packages/adapters/*", "packages/browser/*"],
     "version": "independent",
     "npmClient": "yarn",
     "useWorkspaces": true,
